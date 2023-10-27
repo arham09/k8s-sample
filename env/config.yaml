@@ -1,0 +1,5 @@
+---
+runtime:
+  environment: "development"
+
+name: "from config file"

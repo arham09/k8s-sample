@@ -1,0 +1,14 @@
+# Backend
+*.exe
+vendor/
+e2e
+.cache/
+
+# Backup files
+*.bak
+
+/.vscode
+.DS_Store
+
+.yalc/
+yalc.lock
